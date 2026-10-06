@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FoodShop.Domain
 {
-    public class CategoryService
+    class CategoryService
     {
     }
 }
